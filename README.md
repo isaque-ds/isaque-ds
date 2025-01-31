@@ -23,7 +23,7 @@ Me chamo Isaque Santos, eu sou Desenvolvedor Front-End apaixonado por transforma
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
 </div>
 <br><br>
-### 📊 Estatísticas
+### 📊 <h2>Estatísticas</h2>
 <br><br>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=isaque-ds&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&custom_title=%20Estat%C3%ADsticas%20do%20GitHub%20de%20Isaque%20Santos" height="150" alt="stats graph"  />
