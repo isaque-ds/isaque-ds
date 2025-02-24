@@ -1,4 +1,4 @@
-<h2 align="left">Olá eu sou Isaque Santos, Desenvolvedor Front-end</h2>
+<h2 align="left">Olá, eu sou Isaque Santos, Desenvolvedor Front-end</h2>
 
 ###
 Me chamo Isaque Santos, eu sou Desenvolvedor Front-End apaixonado por transformar ideias em experiências digitais envolventes. Especialista em HTML, CSS, JavaScript e JQuery, crio interfaces responsivas, intuitivas e otimizadas para desempenho. Foco em usabilidade e acessibilidade para proporcionar a melhor experiência ao usuário. Sempre atualizado com as tendências do setor, combino tecnologia e criatividade para entregar soluções inovadoras. Vamos criar algo incrível juntos?"
